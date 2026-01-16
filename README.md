@@ -15,7 +15,7 @@ I believe the same problem can be solved in many ways — in life and in develop
 
 ## 🧠 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio,blender" />
 </p>
 
 **Main Tools**
