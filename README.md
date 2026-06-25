@@ -1,77 +1,65 @@
-# 🎮 Manoj.S  
-**Game Developer (Beginner / Creator / Solo Learner)**  
+# 👋 Hi, I'm Manoj S — Unity Developer & Game Creator
 
-I am a passionate **beginner game developer** with around **1 year of hands-on experience** building complete games in Unity. I focus on learning by doing — shipping small projects, experimenting with mechanics, and improving my problem-solving skills every day.  
-I believe the same problem can be solved in many ways — in life and in development — and that mindset drives how I build games and systems.
+**7 shipped games · Top 50 Game Jam finish · 72+ downloads · 211+ itch.io visits**
 
----
-
-## 🚀 What I'm Working On
-- Building and finishing **Unity-based 2D & 3D games**
-- Learning **core game systems** like movement, abilities, and UI
-- Growing step-by-step as a **solo game developer**
+I'm a solo Unity developer who builds and ships complete games end-to-end — from game loop design and physics to UI, audio integration, and mobile optimization. Every project here is something I built, tested, and published myself.
 
 ---
 
-## 🧠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,visualstudio,blender" />
-</p>
+## 🎮 What I Build
 
-**Main Tools**
-- Unity  
-- C#  
-- Blender (basic)
+- **2D & 3D Mobile Games** — optimized for Android, published on itch.io
+- **Game Systems** — player controllers, ability systems, score/state managers, procedural generation
+- **Polished Prototypes** — mechanic-first development with full game loops
 
 ---
 
-## 🧩 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 Echo Runner *(Ongoing Project)*
-- Endless-style runner game built in Unity  
-- Focused on ability systems, player movement, and clean game architecture  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🔹 Completed Projects
-- Color Switch  
-- Steller Echos  
-- Flappy Bird  
-- Helix Jump  
-- Bubble Sort Game  
-- Endless Runner  
-
-*(All projects built in Unity.)*
+**Core Skills:** OOP · Physics Systems · UI/UX · Mobile Performance · Game Architecture · Debugging
 
 ---
 
-## 🌍 Connect With Me
-<p align="left">
-  <a href="https://instagram.com/gameofbugs.official" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://gameofbugs.official.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white" />
-  </a>
-</p>
+## 🚀 Featured Projects
+
+| Game | Type | Highlights |
+|------|------|------------|
+| [Color Portal](https://github.com/gameofbugs/Color-Portal) | 3D Mobile Arcade | Shader-based portal mechanics · mobile optimized |
+| [Flappy Bird](https://github.com/gameofbugs/Flappy-Bird) | 2D Mobile | Pipe spawning · score persistence · touch controls |
+| [Helix Jump](https://github.com/gameofbugs/HelixJump) | 3D Mobile | Ball physics · dynamic platform generation |
+| [Color Switcher](https://github.com/gameofbugs/Color-Switcher) | 2D Mobile Arcade | Color-matching obstacle system · smooth mechanic |
+| [Stellar Echoes](https://github.com/gameofbugs/Stellar-Echoes) | 2D Space Shooter | Original title · published on itch.io |
+| [Echo Runner — The Platform Instinct](https://github.com/gameofbugs/Echo-Runner-The-Platform-Instinct) | Endless Runner | Ability system · procedural level design |
 
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gameofbugs&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=gameofbugs&theme=github-dark&hide_border=true" />
-</p>
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gameofbugs&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gameofbugs&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
-## 🧠 Developer Mindset
-- We can solve the same problem in many ways  
-- This applies in both **real life** and **development**  
-- Growth comes from **experimentation and iteration**
+## 🎯 Currently
+
+- Building **Color Portal** — polishing shader effects and mobile performance
+- Deepening C# architecture patterns for larger game systems
+- Expanding to Java for broader software development
 
 ---
 
-> I believe in **learning by building**.  
-> Every small project makes me a better developer.
+## 📬 Connect
+
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://gameofbugs.official.itch.io)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gameofbugs.official)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-gameofbugs)
+
+---
+
+> *"Ship it, learn from it, build the next one better."*
