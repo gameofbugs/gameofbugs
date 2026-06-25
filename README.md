@@ -56,7 +56,7 @@ I'm a solo Unity developer who builds and ships complete games end-to-end — fr
 
 ## 📬 Connect
 
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://gameofbugs.official.itch.io)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itch.io&logoColor=white)](https://gameofbugsofficial.itch.io)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/gameofbugs.official)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-gameofbugs)
 
