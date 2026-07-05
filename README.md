@@ -30,7 +30,7 @@ I'm a solo Unity developer who builds and ships complete games end-to-end — fr
 
 | Game | Type | Highlights |
 |------|------|------------|
-| [Color Portal](https://github.com/gameofbugs/Color-Portal) | 3D Mobile Arcade | Shader-based portal mechanics · mobile optimized |
+| [Color Portal](https://github.com/gameofbugs/Color-Portal) | 3D Arcade | Shader-based portal mechanics · mobile optimized |
 | [Flappy Bird](https://github.com/gameofbugs/Flappy-Bird) | 2D Mobile | Pipe spawning · score persistence · touch controls |
 | [Helix Jump](https://github.com/gameofbugs/HelixJump) | 3D Mobile | Ball physics · dynamic platform generation |
 | [Color Switcher](https://github.com/gameofbugs/Color-Switcher) | 2D Mobile Arcade | Color-matching obstacle system · smooth mechanic |
